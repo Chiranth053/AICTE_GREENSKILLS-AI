@@ -1,4 +1,4 @@
-# AICTE_WEEK-1_GREENSKILLS-AI
+# AICTE_GREENSKILLS-AI
 
 # 🌱 Week 1 – Virtual Internship (Shell, via Edunet & AICTE)
 
@@ -36,7 +36,55 @@ The focus of this week was on exploring **Machine Learning techniques** and prep
 📦 Week1-Internship
 ┣ 📜 HESS_Dataset.csv # Dataset related to car carbon emissions
 ┣ 📜 WEEK 1 - Hybrid Energy Storage.ipynb # Jupyter Notebook with implementation
-┗ 📜 README.md # Project documentation.
+┗ 📜 README.md  # Project documentation.
 
-## Thanks for the visit...💕
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🚀 Week 2 – Model Building, Evaluation & Visualization  
+
+This week focuses on implementing, evaluating, and visualizing a machine learning model using the cleaned dataset prepared in *Week 1*.  
+
+## 📈 Steps Completed  
+
+### 1. Model Selection  
+- Chose *Linear Regression* for predicting continuous values (e.g., *AC power in watts*).  
+
+### 2. Model Training & Prediction  
+- Fitted the Linear Regression model on the training data.  
+- Predicted values on the test set.  
+
+### 3. Model Evaluation  
+- Calculated key performance metrics:  
+  - *Mean Squared Error (MSE)*  
+  - *R² Score* (explained variance)  
+- Achieved *very high predictive performance* (R² ≈ *0.999*).  
+
+### 4. Visualization  
+- Plotted a *scatter graph* comparing actual vs. predicted values.  
+- Overlaid the fitted *regression line* for visual assessment.  
+- Used *Matplotlib* for clear graphical representation.  
+
+## 🛠 Tools & Libraries Used  
+- Python  
+- Pandas  
+- Scikit-learn (LinearRegression, mean_squared_error, r2_score)  
+- Matplotlib (for visualization)
+  
+---
+
+## 📂 Repository Structure (Updated)
+
+📦 Week1-Internship
+┣ 📜 HESS_Dataset.csv
+┣ 📜 WEEK 1 - Hybrid Energy Storage.ipynb
+┣ 📜 WEEK 2 - Model Evaluation.ipynb   # (Week 2 updates: model code, evaluation, plots)
+┗ 📜 README.md
+
+---
+
+## 📊 Example Output  
+✅ The model successfully *predicts AC power in watts* with a *very high level of accuracy*, as demonstrated by the comparison of actual test outcomes and regression predictions.  
+
+---
+### Thanks for the visit...💕
 
