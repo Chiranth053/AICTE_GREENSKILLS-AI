@@ -3,7 +3,7 @@
 # 🌱 Week 1 – Virtual Internship (Shell, via Edunet & AICTE)
 
 This repository contains my **Week 1 work** from the Virtual Internship program with **Shell Company**.  
-The focus of this week was on exploring **Machine Learning techniques** and preparing a dataset to predict **carbon emissions from cars**.
+The focus of this week was on exploring **Machine Learning techniques** and preparing a dataset to predict **AC power in watt**.
 
 ---
 
@@ -35,7 +35,7 @@ The focus of this week was on exploring **Machine Learning techniques** and prep
 
 📦 Week1-Internship
 ┣ 📜 Generation_data.csv # Dataset related to car carbon emissions
-┣ 📜 WEEK 1 - Hybrid Energy Storage.ipynb # Jupyter Notebook with implementation
+┣ 📜 WEEK 1 - Power Generation.ipynb # Jupyter Notebook with implementation
 ┗ 📜 README.md  # Project documentation.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -76,7 +76,7 @@ This week focuses on implementing, evaluating, and visualizing a machine learnin
 
 📦 Week1-Internship
 ┣ 📜 Generation_data.csv
-┣ 📜 WEEK 1 - Hybrid Energy Storage.ipynb
+┣ 📜 WEEK 1 - Power Generation.ipynb
 ┣ 📜 WEEK 2 - Model Evaluation.ipynb   # (Week 2 updates: model code, evaluation, plots)
 ┗ 📜 README.md
 
