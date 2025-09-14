@@ -34,7 +34,7 @@ The focus of this week was on exploring **Machine Learning techniques** and prep
 ## 📂 Repository Structure
 
 📦 Week1-Internship
-┣ 📜 HESS_Dataset.csv # Dataset related to car carbon emissions
+┣ 📜 Generation_data.csv # Dataset related to car carbon emissions
 ┣ 📜 WEEK 1 - Hybrid Energy Storage.ipynb # Jupyter Notebook with implementation
 ┗ 📜 README.md  # Project documentation.
 
@@ -75,7 +75,7 @@ This week focuses on implementing, evaluating, and visualizing a machine learnin
 ## 📂 Repository Structure (Updated)
 
 📦 Week1-Internship
-┣ 📜 HESS_Dataset.csv
+┣ 📜 Generation_data.csv
 ┣ 📜 WEEK 1 - Hybrid Energy Storage.ipynb
 ┣ 📜 WEEK 2 - Model Evaluation.ipynb   # (Week 2 updates: model code, evaluation, plots)
 ┗ 📜 README.md
